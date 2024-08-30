@@ -1,5 +1,5 @@
 # Diet-recall-application
-Our project aims to create an easy-to-use app that helps users track their daily food intake, understand  nutritional content, set and achieve fitness goals, plan workouts, receive reminders, and get personalized support. 
+Our major project aims to create an easy-to-use app that helps users track their daily food intake, understand  nutritional content, set and achieve fitness goals, plan workouts, receive reminders, and get personalized support. 
 
 Our 8 Major Objectives of our project are:-
 1. Diet Tracking: Enable users to record and track their daily food intake, including meals, snacks, and beverages, in a user-friendly and efficient manner.
